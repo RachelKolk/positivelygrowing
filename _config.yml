@@ -4,7 +4,7 @@ title: "Positively Growing"
 description: "I will take you to the fabulous world of plants!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /jekyll-theme-memoirs
+baseurl: /positivelygrowing
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
@@ -19,7 +19,7 @@ authors:
     display_name: Rachel
     avatar: https://avatars1.githubusercontent.com/u/40441460?s=400&u=353b7fea263390ea46d33d7ec7896e0eff4f2dac&v=4
     email: rach.m.obrien@gmail.com
-    web: https://positivelygrowing.site/
+    web: https://rachelkolk.github.io/positivelygrowing/
     twitter: https://twitter/rachelokolk
     description: "."
   john:
